@@ -1,0 +1,20 @@
+Kody Fong (1519213)	
+kbfong
+PA 3
+
+Files
+
+
+Sparse.java:Client module that is the client of Matrix.java which handles input and output.
+
+List.java: List ADT but implemented using type Object in the constructor.
+
+ListClient.java: Given by Prof Tantalo. Used to test the list.java
+
+Matrix.java: Consists of operations for the matrix. Used in Sparse.java
+
+MatrixClient.java: Given by Prof Tantalo. Used to test Matrix.java.
+
+Makefile: Provided, used to compile the pogram.
+
+README: Description of files submitted

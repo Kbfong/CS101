@@ -1,0 +1,19 @@
+Kody Fong (1519213)
+kbfong
+PA2
+
+
+Files:
+
+List.c: An ADT Linked List written by me in C which has the implemented functions required from
+the assignment pdf. Used in Lex.c
+
+List.h: The header file for List.c which has all of the functions required for List.c.
+
+ListClient.c: Given by Prof Tantalo. Used to test the list.c.
+
+Lex.c: A file written by me in C that utilizes list.c to sort the list lexicographically
+
+Makefile: Provided, used to compile the pogram.
+
+README: Description of files submitted

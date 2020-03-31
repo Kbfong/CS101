@@ -1,0 +1,17 @@
+Kody Fong (1519213)
+kbfong
+PA1
+
+
+Files:
+
+List.java: An ADT Linked List written by me which has the implemented functions required from 
+the assignment pdf. Used in Lex.java
+
+ListClient.java: Given by Prof Tantalo. Used to test the list.java.
+
+Lex.java: A file written by me that utilizes list.java to sort the list lexicographically
+
+Makefile: Provided, used to compile the pogram
+
+README: Description of files submitted
